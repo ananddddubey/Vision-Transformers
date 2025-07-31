@@ -1,7 +1,8 @@
 # Vision Transformer (ViT) for Hyperspectral Image Classification
 
 This repository contains an implementation of a Vision Transformer (ViT) model for hyperspectral image (HSI) classification. The model processes hyperspectral datasets and classifies land cover types using self-attention mechanisms.
-##Note:
+
+### Note:
 This  is a sample code of a research project that is implemented from scratch without copying or cloning a GitHub repository. The Actual code is not showcased because the paper is under verification.
 
 The actual code will be provided once the paper is published.

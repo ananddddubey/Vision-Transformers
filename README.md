@@ -2,6 +2,8 @@
 
 This repository contains an implementation of a Vision Transformer (ViT) model for hyperspectral image (HSI) classification. The model processes hyperspectral datasets and classifies land cover types using self-attention mechanisms.
 
+VIT Explorer: https://vitexplorer-git-main-ananddddubeys-projects.vercel.app/
+
 ### Note:
 This  is a sample code of a research project that is implemented from scratch without copying or cloning a GitHub repository. The Actual code is not showcased because the paper is under verification.
 
